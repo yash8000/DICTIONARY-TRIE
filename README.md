@@ -1,1 +1,1 @@
-# DICTIONARY-TRIE
+# Trie-Based-Dictionary
